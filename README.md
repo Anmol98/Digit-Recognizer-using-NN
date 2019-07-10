@@ -1,1 +1,1 @@
-# Digit-Recognizer-using-NN
+# Digit-Recognizer-using-Neural-Network
